@@ -1,3 +1,48 @@
 .root {
 		--ion-background-color: #a2d5dc;
 	}
+	
+.card{
+		background-color: rgb(242, 247, 247);
+		height: 650px;
+		top:50px;
+		
+	}
+.item{
+		background: rgb(242, 247, 247);
+		padding-bottom: 80px;
+	
+	}
+.title{
+		text-align: center;
+		font-size: 35px;
+		font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+		padding-bottom: 20px;
+	}
+.list{
+	background: rgb(242, 247, 247);
+}
+.button2{
+	
+		color: #000000;
+		background-color: #a2d5dc;
+		position: fixed;
+		top:450px;
+		left: 100px;
+		border-radius: 10px;
+		width: 155px;
+		margin: auto;
+		align-items: center;
+		text-align: center;
+		font-size: 16px;
+		font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+		text-transform: none;
+	}
+.password{
+	text-align: center;
+	position:relative;
+	font-size: 15px;
+	font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+	top: 50px;
+
+}
