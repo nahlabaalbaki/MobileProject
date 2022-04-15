@@ -1,5 +1,42 @@
 .root {
-	--ion-background-color: #A9C0A1;
-	--ion-background-color-rgb: 169,192,161;
+	--ion-background-color: #7d9076;
+}
 
+.card{
+	background-color: rgb(242, 247, 247);
+	height: 610px;
+	top:70px;
+	
+}
+.item{
+	background: rgb(242, 247, 247);
+	padding-bottom: 20px;
+
+}
+.title{
+	text-align: center;
+	font-size: 35px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    padding-bottom: 20px;
+}
+.subtitle{
+	text-align: center;
+	font-size: 15px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.button2{
+
+    color: #000000;
+    background-color: #9fb796;
+    position: fixed;
+    top:520px;
+    left: 100px;
+    border-radius: 10px;
+    width: 155px;
+    margin: auto;
+    align-items: center;
+    text-align: center;
+    font-size: 16px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-transform: none;
 }
