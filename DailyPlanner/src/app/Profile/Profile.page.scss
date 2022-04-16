@@ -5,7 +5,7 @@
 .card{
 		background-color: rgb(242, 247, 247);
 		height: 650px;
-		top:50px;
+
 		
 	}
 .item{
@@ -26,9 +26,7 @@
 
     color: #000000;
     background-color: #a2d5dc;
-    position: fixed;
     top:490px;
-    left: 100px;
     border-radius: 10px;
     width: 155px;
     margin: auto;
@@ -40,7 +38,6 @@
 }
 .password{
 	text-align: center;
-	position:fixed;
 	font-size: 15px;
 	font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 	top: 580px;
